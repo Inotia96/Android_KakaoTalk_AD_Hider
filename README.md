@@ -6,9 +6,7 @@ The composition of this theme is as follows.
 
 
 Remove advertising banner from KakaoTalk.
-
 Remove the VPN icon from the top bar.
-
 Change the icon of Samsung Internet.
 
 
