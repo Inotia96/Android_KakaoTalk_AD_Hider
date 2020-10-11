@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="0.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" android:visibility="gone"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kakao="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="16.0sp" android:textStyle="bold" android:id="@*com.kakao.talk:id/title" android:layout_width="0.0dip" android:layout_height="0.0dip" android:visibility="gone" android:layout_marginTop="29.0dip" android:layout_marginBottom="11.0dip" android:text="@*com.kakao.talk:string/title_for_inhouse_inventory" android:singleLine="true" android:includeFontPadding="false" />
+    <com.kakao.talk.mytab.view.AdRoundedCornerLayout android:id="@*com.kakao.talk:id/container" android:layout_width="0.0dip" android:layout_height="0.0dip" android:visibility="gone" android:foreground="@*com.kakao.talk:color/transparent" android:layout_weight="1.0">
+        <com.kakao.talk.mytab.view.widget.InhouseInventoryViewPager android:id="@*com.kakao.talk:id/view_pager" android:layout_width="0.0dip" android:layout_height="0.0dip" android:visibility="gone" android:importantForAccessibility="no" />
+    </com.kakao.talk.mytab.view.AdRoundedCornerLayout>
+    <Space android:id="@*com.kakao.talk:id/space" android:layout_width="0.0dip" android:layout_height="0.0dip" android:visibility="gone" />
+    <com.kakao.talk.mytab.view.widget.InhouseInventoryViewIndicator android:layout_gravity="center" android:id="@*com.kakao.talk:id/pager_indicator" android:paddingTop="1.0dip" android:paddingBottom="24.0dip" android:focusable="true" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="0.0dip"/>
+    <View android:id="@*com.kakao.talk:id/divider" android:background="@*com.kakao.talk:color/dayonly_gray150a" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="0.5dip" />
+</LinearLayout>

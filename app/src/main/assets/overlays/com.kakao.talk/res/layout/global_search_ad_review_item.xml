@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@*com.kakao.talk:id/review_container" android:background="@*com.kakao.talk:color/dayonly_body_cell_color" android:layout_width="0.0dip" android:layout_height="0.0dip" android:visibility="gone" android:paddingStart="16.0dip" android:paddingEnd="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:background="#fff2f2f2" android:layout_width="0.0dip" android:layout_height="0.0dip" android:visibility="gone" android:layout_marginTop="14.0dip" />
+    <TextView android:textSize="11.0sp" android:textColor="@*com.kakao.talk:color/dayonly_gray500s" android:gravity="center_vertical" android:id="@*com.kakao.talk:id/review" android:paddingTop="13.5dip" android:paddingBottom="13.5dip" android:layout_width="0.0dip" android:layout_height="0.0dip" android:visibility="gone" android:minHeight="41.0dip" android:includeFontPadding="false" />
+</LinearLayout>
