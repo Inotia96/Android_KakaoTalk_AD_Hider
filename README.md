@@ -1,2 +1,8 @@
 # Android_KakaoTalk_AD_Hider
-Hide KakaoTalk AD Substratum Theme
+This is the Substratum Theme that hides the AD Banner of KakaoTalk.
+
+The composition of this theme is as follows.
+
+Remove advertising banner from KakaoTalk
+Remove the VPN icon from the top bar
+Change the icon of Samsung Internet
