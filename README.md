@@ -27,6 +27,11 @@
 
 https://www.clien.net/service/board/cm_andro/15465420
 
+#### One UI 사용자를 위한 Darkmode fix theme는 아래 링크를 참고해주세요.
+
+https://github.com/Inotia96/OneUI_Darkmode_Theme_Fix/releases/
+
+
 #### 본 프로젝트는 Substratum Template 기반으로 제작되었습니다.
 
 https://github.com/substratum/template
