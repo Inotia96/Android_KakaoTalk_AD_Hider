@@ -23,10 +23,10 @@
 ###### 배너 관련 리소스를 거의 건들이지 않기 때문에, 업데이트를 자주 하지 않아도 됩니다.
 
 
-자세한 설치 방법은 아래 링크를 참고해주세요.
+#### 자세한 설치 방법은 아래 링크를 참고해주세요.
 
 https://www.clien.net/service/board/cm_andro/15465420
 
-Substratum Template의 소스 기반으로 제작되었습니다.
+#### Substratum Template의 소스 기반으로 제작되었습니다.
 
 https://github.com/substratum/template
