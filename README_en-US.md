@@ -23,10 +23,10 @@ If you want to use this version, it is recommended to use it with Adguard.
 ###### Ad resource is rarely modified, so frequent updates are not required.
 
 
-Please refer to the link below for detailed usage instructions.
+##### Please refer to the link below for detailed usage instructions.
 
 https://www.clien.net/service/board/cm_andro/15465420
 
-All sources are based on Substratum Template.
+##### All sources are based on Substratum Template.
 
 https://github.com/substratum/template
