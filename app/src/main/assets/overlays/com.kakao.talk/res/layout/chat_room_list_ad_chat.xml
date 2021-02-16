@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.kakao.talk.widget.theme.ThemeRelativeLayout android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="16.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <FrameLayout android:id="@*com.kakao.talk:id/container" android:background="@*com.kakao.talk:drawable/shape_chat_ad_bg" android:layout_width="0dp" android:layout_height="0dp" android:visibility="gone">
-        <com.kakao.adfit.ads.talk.TalkMediaAdView android:id="@*com.kakao.talk:id/talk_media_ad_view" android:layout_width="0dp" android:layout_height="0dp" android:visibility="gone"/>
-    </FrameLayout>
-</com.kakao.talk.widget.theme.ThemeRelativeLayout>
