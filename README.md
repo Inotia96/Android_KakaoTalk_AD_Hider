@@ -27,6 +27,6 @@
 
 https://www.clien.net/service/board/cm_andro/15465420
 
-#### Substratum Template의 소스 기반으로 제작되었습니다.
+#### 본 프로젝트는 Substratum Template의 소스 기반으로 제작되었습니다.
 
 https://github.com/substratum/template
