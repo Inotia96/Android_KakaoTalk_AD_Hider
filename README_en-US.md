@@ -27,6 +27,10 @@ If you want to use this version, it is recommended to use it with Adguard.
 
 https://www.clien.net/service/board/cm_andro/15465420
 
+#### If you are OneUI users, You need to install Darkmode fix theme. Please refer to the link below.
+
+https://github.com/Inotia96/OneUI_Darkmode_Theme_Fix/
+
 #### All sources are based on Substratum Template.
 
 https://github.com/substratum/template
