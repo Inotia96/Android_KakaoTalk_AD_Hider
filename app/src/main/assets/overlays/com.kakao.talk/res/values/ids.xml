@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="container" />
+    <item type="id" name="talk_media_ad_view" />
+    <item type="id" name="title" />
+    <item type="id" name="view_pager" />
+    <item type="id" name="space" />
+    <item type="id" name="pager_indicator" />
+    <item type="id" name="divider" />
+    <item type="id" name="root" />
+    <item type="id" name="ad_container" />
+    <item type="id" name="bannerAdView" />
+    <item type="id" name="ad_media" />
+    <item type="id" name="ad_gradation" />
+    <item type="id" name="ad_title" />
+    <item type="id" name="ad_watermark" />
+    <item type="id" name="banner_ad_view" />
+    <item type="id" name="divider_top" />
+    <item type="id" name="divider_bottom" />
+</resources>
